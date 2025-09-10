@@ -11,7 +11,6 @@
 - Build themed desktop & web apps to keep everything consistent.  
 - Work on **E-commerce platforms** with features like authentication, product management, and user profiles.  
 - Explore **IoT projects** (ESP32 + sensors, GSM modules, OLED, and more).  
-- Share coding & design tips on [Instagram](https://www.instagram.com/mega.tche/).  
 
 ---
 
